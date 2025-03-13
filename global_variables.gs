@@ -1,0 +1,17 @@
+const MONTH_TIME_STAMP = 8;
+
+const ALL_COLLECTION_FOLDER =  "1SyinXWtdC6xPSs3g0y8o80ZjNj3kJ9XU";
+const ADMIN_ONLY_SS = "13uk-Fon_eULwOKzPf53_gApWgto4Y6ZIAS2q_TOTIHo";
+const LOGGER_SHEET_NAME = "LOGGER";
+
+const TEMPLATE_DOC_ID = "19M_fVoA-vVUX2HJ5xpYHcrFReP1-vtDFWtz2IhHR8Ow";
+//with image but slow
+// const TEMPLATE_DOC_ID = "1Bc_asP63wm7UJmKa5wRO3umIO1JCH5RDEsL4f1ebom0";
+
+const TEMPLATE_COLLECTION_SHEET = "1B61pIrg7Z0f16s4Uhae8w0Ew6zaREpPAocrs9SEk4xU";
+const RECIPT_FOLDER_ID = "1vSEotcTew3hCK6VpA5TQBBk1APJfrnu3";
+
+
+const COLOR_NOT_PAID = "#FF6666"; //red
+const COLOR_PENDING = "#FFFF00"; //yellow
+const COLOR_PAID = "#90ee90"; //green
